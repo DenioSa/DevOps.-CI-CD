@@ -14,7 +14,12 @@
 
 ---
 
+### Решение 1
 
+![1.1.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/1.1.png)
+![1.2.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/1.2.png)
+![1.3.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/1.3.png)
+![1.4.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/1.4.png)
 
 ### Задание 2
 
@@ -26,6 +31,12 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
+### Решение 2
+
+![2.1.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/2.1.png)
+![2.2.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/2.2.png)
+
+
 
 ### Задание 3
 
@@ -37,3 +48,12 @@
 1. Загрузите файл в репозиторий с помощью jenkins.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+
+### Решение 3
+
+![3.1.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/3.1.png)
+![3.2.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/3.2.png)
+![3.3.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/3.3.png)
+![3.4.](https://github.com/DenioSa/DevOps.-CI-CD-Saifiev-Denis/blob/main/3.4.png)
+
